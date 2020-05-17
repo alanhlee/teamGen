@@ -84,7 +84,7 @@ prompt([
     return (
       total +
       `
-        <div class="row">
+        <div class="row" style=>
       <div class="col s12 m6">
         <div class="card blue-grey darken-1">
           <div class="card-content white-text">
